@@ -1,2 +1,2 @@
-#!/bing/bang
+#!/bin/bash
 ls -l
