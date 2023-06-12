@@ -1,2 +1,2 @@
 #!/bin/bash
-sed p 
+tail -n1 incta >> incta 
