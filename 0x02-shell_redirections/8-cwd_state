@@ -1,2 +1,2 @@
 #!/bin/bash
-echo get a comprehensive view of all files and directories in a directory, including hidden ones, with detailed information about each item. > ls_cwd_content
+ls -la > ls_cwd_content
